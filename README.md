@@ -8,7 +8,7 @@ Hey! Stop ✋ you might be in a hurry, so here's a quick intro about me:
 
 - **I'm a builder**: I create tools focused on automating boring tasks and solving real-world problems.
 - **I share what I learn**: From projects to ideas, I love documenting my journey and helping others along the way. 
-- **What I'm working on**: Currently improving notion-to-md and build a community around it.
+- **What I'm working on**: Currently improving thought-police and build a community around it.
 
 Exploring and learning a lot every day.
 

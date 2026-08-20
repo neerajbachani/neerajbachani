@@ -10,31 +10,31 @@ text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">@@@#-:==+-  :.--. .:.= -==  . .*+:-@@@@@@@@@</tspan>
-<tspan x="15" y="50">@@@+-#++:     .:. . -+ ==.:   --=.+@@@@@@@@@</tspan>
-<tspan x="15" y="70">@@@+*+++=-:   ..    -.::-.-:: .+--@@@@@@@@@@</tspan>
-<tspan x="15" y="90">@@%+@%#%*#.   :     : . ..-:.- :#+@@@@@@@@@@</tspan>
-<tspan x="15" y="110">@@%+=@@@@%   ..     .   .:.- :::%@@@@@@@@@@@</tspan>
-<tspan x="15" y="130">@@@%#@@@@%=.    : ....   .. . ++@@@@@@@@@@@@</tspan>
-<tspan x="15" y="150">@@@%%@@@@**    =+ :-:..   :   -=@@+@@@@@@@@@</tspan>
-<tspan x="15" y="170">@@@**@%@%-=  . *%::..=:.  : .- -@@.*@@@@@@@@</tspan>
-<tspan x="15" y="190">@@@@#@+#- ..:..=-.  =@*:. .  - *%%:-@@@@@@@@</tspan>
-<tspan x="15" y="210">@@@@@#=-:..:*::.  ..=*+*-.    +@##++@@@@@@@@</tspan>
-<tspan x="15" y="230">@@@@@#+:=::-*==  :++--*=--    *##@%*@@@@@@@@</tspan>
-<tspan x="15" y="250">@@@@%@+.    +@%- -+-.=@=**    +@%@@%@@@@@@@@</tspan>
-<tspan x="15" y="270">@@@@@@*-:   :@@+ :*+:%@*@@=  .@@#@@@@@@@@@@@</tspan>
-<tspan x="15" y="290">@@@@@@#*+=..:@@@=-=+*+@@@#:. -%++%@@@@@@@@@@</tspan>
-<tspan x="15" y="310">@@@@@@@*:: .:@%@@=.:**=+@%:=-*+=+-+@@@@@@@@@</tspan>
-<tspan x="15" y="330">@@@@@@@%*. =*@@@@#: --:=*%-=*#:-# :@@@@@@@@@</tspan>
-<tspan x="15" y="350">@@@@@@@@#: =@@@@@@@:=*+:---+#@=-+.:@@@@@@#%@</tspan>
-<tspan x="15" y="370">@@@@@@@@%- -@@#@@@@%***-:.-+@@: +%=@@@@@@-*@</tspan>
-<tspan x="15" y="390">@@@@@@@@@+..=-=-#@@@#@#=:::==%::@@%@@@@@+-*%</tspan>
-<tspan x="15" y="410">@@@@@@@@@@- :-+==@@@@@@%+-.+*+=*@%@@@@%%==+%</tspan>
-<tspan x="15" y="430">@@@@@@@@@@+.=-*%*@@@@@@@#..*@#*#@@@@@-+@*=+#</tspan>
-<tspan x="15" y="450">@@@@@@@@@@@ :+%@@@@@@@@@* ==@%##@@+@%-=%#%@@</tspan>
-<tspan x="15" y="470">@@@@@@@@@@@=:++%@@#=.*@@* -*@#%*@*.#@+*@@@#+</tspan>
-<tspan x="15" y="490">@@@@@@@@@@@@+-*@@@@+-+@@+.: +*=#* -+*%@@*.  </tspan>
-<tspan x="15" y="510">@@@@@@@@@@@#+:-#%@@@+*@@@=+=+=.=+:+**@=.    </tspan>
+<tspan x="15" y="30">    .:-=+-  :.--. .:.= -==  . .++.:         </tspan>
+<tspan x="15" y="50">    :+++:     .-. . -+ ==.:   --=:-         </tspan>
+<tspan x="15" y="70">   -*+*+=-:   ..    -:::-.-:: .+--          </tspan>
+<tspan x="15" y="90">   +%%#%*#.  .:     : . ..-:.- :#+          </tspan>
+<tspan x="15" y="110">  *+=@@@@%   ..     .   .:.- ::-%@          </tspan>
+<tspan x="15" y="130">  #*#@@@@#=.    : ....   .. . +*@           </tspan>
+<tspan x="15" y="150">   %%@@@@*#    =+ :-:...  :   -=  +         </tspan>
+<tspan x="15" y="170">   **@%@#-=  . *%::..=:.  : .-.:  :         </tspan>
+<tspan x="15" y="190">    %@+#- ..:..=-. .=@*:. .  -.-*# .        </tspan>
+<tspan x="15" y="210">    @#=--..:+::.  ..=*+*-..  .- *+=.        </tspan>
+<tspan x="15" y="230">    %#+:=::-*==  :++=-#=--    +** *-        </tspan>
+<tspan x="15" y="250">    #%+.    +@%- -+-.=@=**    + #           </tspan>
+<tspan x="15" y="270">      *=:.  :@@+ :*+-@@*@@=  .# +           </tspan>
+<tspan x="15" y="290">      *++=..:@@@=-=+*+@@@#:. -%++%#         </tspan>
+<tspan x="15" y="310">       =:. .:@@@@=.:**=+@%:=-*+=+-+         </tspan>
+<tspan x="15" y="330">       #*. =*@@@@#: --:=#%-=*%:-# -         </tspan>
+<tspan x="15" y="350">       @#: =@@@@@@@:=*+:---+#@=-+.:%        </tspan>
+<tspan x="15" y="370">         -.=@@#@@@@%***-:.-+@@:.+%+%     -+ </tspan>
+<tspan x="15" y="390">         -:.=-=-#@@@%@#=:::==%:-@@%@    -=+ </tspan>
+<tspan x="15" y="410">          -.:-+==@@@@@@%+-.+*+=*@@@@  ##==+ </tspan>
+<tspan x="15" y="430">          ::=-*%*@@@@@@@#..+@#*%@@@@@-*@*=+#</tspan>
+<tspan x="15" y="450">            :+%@@@@@@@@@* ==@%##@@+@%-=%%%@@</tspan>
+<tspan x="15" y="470">           .-+*%@@#+.*@@* -*@#%*@*.#@+*@@@#+</tspan>
+<tspan x="15" y="490">            +-*@@@@+-+@@+.: +#=#*.-+*%@@*.  </tspan>
+<tspan x="15" y="510">            *:-#%@@@+*@@@=+=+=.=+:+#*@=.    </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">neerajbachani@github</tspan> ——————————————————————————————-—-
@@ -60,7 +60,7 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="430" class="cc">. </tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> ————————————————————————-—-
 <tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">62</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value">71</tspan>} | <tspan class="key">Stars</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">16</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">725</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">10</tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> </tspan><tspan class="value">704,545</tspan> ( <tspan class="addColor">885,886++</tspan>, <tspan class="delColor">181,341--</tspan> )
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc"> ....... </tspan><tspan class="value">726</tspan> | <tspan class="key">Followers</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">10</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines of Code on GitHub</tspan>:<tspan class="cc"> </tspan><tspan class="value">704,545</tspan> ( <tspan class="addColor">885,904++</tspan>, <tspan class="delColor">181,359--</tspan> )
 </text>
 </svg>

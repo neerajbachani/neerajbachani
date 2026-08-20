@@ -1,7 +1,7 @@
 <a href="https://github.com/neerajbachani/neerajbachani">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/neerajbachani/neerajbachani/main/dark_mode.svg">
-    <img alt="Neeraj Bachani's GitHub Profile README" src="https://raw.githubusercontent.com/neerajbachani/neerajbachani/main/light_mode.svg" width="100%">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/neerajbachani/neerajbachani/main/light_mode.svg">
+    <img alt="Neeraj Bachani's GitHub Profile README" src="https://raw.githubusercontent.com/neerajbachani/neerajbachani/main/dark_mode.svg" width="100%">
   </picture>
 </a>
 
